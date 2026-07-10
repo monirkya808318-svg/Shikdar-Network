@@ -1,0 +1,14 @@
+{
+  "name": "শিকদার নেটওয়ার্ক - বিল কালেকশন খাতা",
+  "short_name": "শিকদার নেটওয়ার্ক",
+  "description": "ইন্টারনেট গ্রাহকদের মাসিক বিল আদায়ের হিসাব রাখার অ্যাপ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F1E4",
+  "theme_color": "#0D3B36",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
